@@ -71,10 +71,6 @@ button:hover {
     background-color: #327572;
 }
 
-a:link {
-    color: white;
-}
-
 a:active {
     color: deeppink;
 }
